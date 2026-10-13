@@ -1,0 +1,6 @@
+# Sitio generado por MkDocs
+site/
+
+# Python
+__pycache__/
+*.pyc
